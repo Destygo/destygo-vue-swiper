@@ -1,5 +1,5 @@
 <template>
-  <div class="swiper-container">
+  <div class="destygo_swiper-container">
     <slot name="parallax-bg"></slot>
     <div :class="classes.wrapperClass">
       <slot></slot>

@@ -9,7 +9,7 @@
     name: 'swiper-slide',
     data() {
       return {
-        slideClass: 'swiper-slide'
+        slideClass: 'destygo_swiper-slide'
       }
     },
     ready() {
