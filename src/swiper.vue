@@ -90,7 +90,7 @@
       return {
         swiper: null,
         classes: {
-          wrapperClass: 'swiper-wrapper'
+          wrapperClass: 'destygo_swiper-wrapper'
         }
       }
     },
