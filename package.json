@@ -1,18 +1,18 @@
 {
-  "name": "vue-awesome-swiper",
+  "name": "destygo-vue-swiper",
   "description": "Swiper component for Vue",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "license": "MIT",
   "private": false,
   "author": {
-    "name": "Surmon",
-    "email": "surmon@foxmail.com",
-    "url": "https://surmon.me"
+    "name": "Destygo Front team",
+    "email": "tech@destygo.com",
+    "url": "https://destygo.com"
   },
   "bugs": {
-    "url": "https://github.com/surmon-china/vue-awesome-swiper/issues"
+    "url": "https://github.com/Destygo/destygo-vue-swiper/issues"
   },
-  "homepage": "https://github.com/surmon-china/vue-awesome-swiper#readme",
+  "homepage": "https://github.com/Destygo/destygo-vue-swiper#readme",
   "main": "dist/vue-awesome-swiper.js",
   "unpkg": "dist/vue-awesome-swiper.js",
   "jsnext:main": "dist/vue-awesome-swiper.js",
@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "swiper": "github:thisninja/swiper#master"
+    "swiper": "github:Destygo/destygo-swiper#master"
   },
   "expDependencies": {
     "node-sass": "^4.7.2",
