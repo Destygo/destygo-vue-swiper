@@ -6,8 +6,7 @@
   "private": false,
   "author": {
     "name": "Destygo Front team",
-    "email": "tech@destygo.com",
-    "url": "https://destygo.com"
+    "email": "tech@destygo.com"
   },
   "bugs": {
     "url": "https://github.com/Destygo/destygo-vue-swiper/issues"
@@ -27,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/surmon-china/vue-awesome-swiper.git"
+    "url": "https://github.com/Destygo/destygo-vue-swiper.git"
   },
   "keywords": [
     "vue-awesome-swiper",
@@ -51,7 +50,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "swiper": "github:Destygo/destygo-swiper#master"
+    "destygo-swiper": "^4.4.6"
   },
   "expDependencies": {
     "node-sass": "^4.7.2",
